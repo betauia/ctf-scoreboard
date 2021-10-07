@@ -1,2 +1,4 @@
-# ctf-scoreboard
-scoreboards from ctf's
+# ctf-scoreboard-archive
+scoreboards from archived ctf's
+
+*  [2021](./2021.md)
